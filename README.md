@@ -1,4 +1,6 @@
+
 # Blog App
+
 
 A sample blog app to practice Ruby on rials.
 
