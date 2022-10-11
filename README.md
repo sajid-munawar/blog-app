@@ -1,24 +1,48 @@
-# BLOG APP
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Blog App
 
-Things you may want to cover:
 
-* Ruby version
+A sample blog app to practice Ruby on rials.
 
-* System dependencies
 
-* Configuration
+## Built With
 
-* Database creation
+- Ruby
+- rails
+- postgreSQL
 
-* Database initialization
 
-* How to run the test suite
+## Getting Started
 
-* Services (job queues, cache servers, search engines, etc.)
+To get this program running on your computer,
 
-* Deployment instructions
+1. First, install Ruby
+2. Clone the project repository ([link](.))
+3. Run **`rails s`**
 
-* ...
+
+## Authors
+
+👤 **Sajid Munawar**
+
+- GitHub: [@githubhandle](https://github.com/sajid-munawar)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/sajid-munawar)
+ 
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/sajid-munawar/OOP-school-library/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Fellow Micronauts
+
+## 📝 License
+
+This project is MIT licensed.
